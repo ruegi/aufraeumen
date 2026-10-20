@@ -1,0 +1,9 @@
+[project]
+name = "aufraemen"
+version = "0.1.0"
+description = "aufraeumen App zur Bereingung von alten Backups"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+]
